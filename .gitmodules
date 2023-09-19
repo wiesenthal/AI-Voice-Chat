@@ -1,0 +1,6 @@
+[submodule "orchestrator"]
+	path = orchestrator
+	url = ./orchestrator
+[submodule "brain"]
+	path = brain
+	url = ./brain
